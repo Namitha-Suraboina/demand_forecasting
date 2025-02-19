@@ -1,1 +1,1 @@
-# demand_forecasting
+# demand-forecast
